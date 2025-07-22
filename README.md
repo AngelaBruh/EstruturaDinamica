@@ -3,6 +3,7 @@ Atividade M.A.P.A da faculdade da materia de Estrutura de Dados I
 
 
 Otimização de Rota com Listas Dinâmicas
+
 Uma rede de lojas de produtos naturais utiliza um sistema automatizado para planejar as
 rotas de entrega dos caminhões. Cada parada da rota representa uma loja que deve ser
 visitada. No sistema antigo, sempre que uma nova loja era adicionada no meio da rota, era
