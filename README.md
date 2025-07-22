@@ -1,7 +1,7 @@
 # Estrutura Dinâmica
 Atividade M.A.P.A da faculdade da materia de Estrutura de Dados I
 
-------------------- ERRATA MAPA -------------------
+
 Otimização de Rota com Listas Dinâmicas
 Uma rede de lojas de produtos naturais utiliza um sistema automatizado para planejar as
 rotas de entrega dos caminhões. Cada parada da rota representa uma loja que deve ser
